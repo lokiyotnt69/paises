@@ -1,0 +1,212 @@
+#EXTM3U
+#EXTINF:-1,IT: Rsi La1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3458.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rsi La2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3459.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rete 4
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3452.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: LA 9
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3450.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: LA 8
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3449.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: La 5
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3454.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Canale 5
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3453.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Italia 1
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3451.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/1233.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/1234.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai 3 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/1235.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai Sport 1
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3440.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai Sport 2
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3441.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai YoYo
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2501.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Music TV
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3447.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT Cartoon Network
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2556.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT Disney XD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2554.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Tele Uno
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3456.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Fishing TV
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3448.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Mediasat Extra
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3455.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT:PrimaFila 1
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/400.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PrimaFila 2
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/401.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PrimaFila 3
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/402.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PrimaFila 4
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/404.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PrimaFila 5
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/405.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PrimaFila 6
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/406.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PrimaFila 7
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/407.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PrimaFila 8
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/408.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PrimaFila 9
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/409.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PrimaFila 10
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/410.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Action HD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2544.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Calcio
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2543.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PREMIUM CINEMA  ENERGY
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/1261.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PREMIUM CINEMA 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/1263.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Cinema Comedy
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2542.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Crime 24
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2536.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Crime HD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/1264.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Emotion
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2541.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Joy
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2539.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Sport
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2538.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Stories
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2537.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Studio Universal
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/1267.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Cinema
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/1266.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Cartoon Network
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2546.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium DIscovery World
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2545.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Disney Junior
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/1260.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Cinema Cult HD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/1228.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Cinema Classsic
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3461.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Cinema Passion HD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/1227.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Atlantic HD IT
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/1230.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Cinema Comedy
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/1268.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Cinema Family
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2364.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Cinema  24
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3460.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Cinema Max
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3462.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: SKY CINEMA IT HD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/1229.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Uno HD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/1259.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sport Italia
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3446.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Fox Sports HD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2547.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Fox Animation HD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2549.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Fox Comedy
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2550.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Fox Crime
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2500.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Fox Life HD
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2548.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Fox
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2365.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Moto Gp
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2362.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Sport F1
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2363.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Sport 24 IT
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2369.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Calcio 3
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2368.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Calcio 2
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2367.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Calcio 1
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/2366.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Sport 2
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/26.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Sport 1
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/25.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky TG24
+plugin://plugin.video.f4mTester/?url=http://iptv.re/live/san/san/3457.ts&amp;streamtype=TSDOWNLOADER
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTM3U
+#EXTINF:-1,TOPcrime
+http://93.144.157.62:8000/play/a00t
+#EXTINF:-1,Premium Calcio 2
+http://93.144.157.62:8000/play/a00d
+#EXTINF:-1,Mediaset Extra
+http://93.144.157.62:8000/play/a00v
+#EXTINF:-1,Mediaset Italia Due
+http://93.144.157.62:8000/play/a00u
+#EXTINF:-1,Premium Calcio 4
+http://93.144.157.62:8000/play/a00f
+#EXTINF:-1,TGCOM24
+http://93.144.157.62:8000/play/a010
+#EXTINF:-1,Iris
+http://93.144.157.62:8000/play/a011
+#EXTINF:-1,Premium Calcio 5
+http://93.144.157.62:8000/play/a00g
+#EXTINF:-1,Canale5
+http://93.144.157.62:8000/play/a00x
+#EXTINF:-1,Premium Calcio 1
+http://93.144.157.62:8000/play/a00c
+#EXTINF:-1,Cartoonito
+http://93.144.157.62:8000/play/a00r
+#EXTINF:-1,Paramount Channel
+http://93.144.157.62:8000/play/a008
+#EXTINF:-1,Boing
+http://93.144.157.62:8000/play/a00q
+#EXTINF:-1,Rete4
+http://93.144.157.62:8000/play/a00w
+#EXTINF:-1,Premium Sport 2
+http://93.144.157.62:8000/play/a00b
+#EXTINF:-1,Italia1
+http://93.144.157.62:8000/play/a00y
+#EXTINF:-1,NOVE
+http://93.144.157.62:8000/play/a006
+#EXTINF:-1,Fine Living
+http://93.144.157.62:8000/play/a00s
+#EXTINF:-1,Premium Calcio 3
+http://93.144.157.62:8000/play/a00e
+#EXTINF:-1,Cartoon Network - Premium
+http://93.144.157.62:8000/play/a00p
+#EXTINF:-1,FOCUS
+http://93.144.157.62:8000/play/a00a
+#EXTINF:-1,Premium Calcio 1 HD
+http://93.144.157.62:8000/play/a00o
+#EXTINF:-1,Premium Sport
+http://93.144.157.62:8000/play/a00j
+#EXTINF:-1,Premium Stories +24
+http://93.144.157.62:8000/play/a00i
+#EXTINF:-1,RadioItaliaTV
+http://93.144.157.62:8000/play/a009
+#EXTINF:-1,Premium Action +24
+http://93.144.157.62:8000/play/a00l
+#EXTINF:-1,cielo
+http://93.144.157.62:8000/play/a007
+#EXTINF:-1,Premium Cinema 2 +24
+http://93.144.157.62:8000/play/a00k
+#EXTINF:-1,La 5
+http://93.144.157.62:8000/play/a00z
+#EXTINF:-1,Premium Calcio 6
+http://93.144.157.62:8000/play/a00h
