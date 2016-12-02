@@ -1,0 +1,288 @@
+#EXTM3U
+#EXTINF:-1,[COLOR  red][I][B]-----------FRANCE-------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,FR:  TF1
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/1.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  France 2
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/2.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  France 3
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/3.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  France 4
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/4.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: RTS UN
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/530.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: RTL9 HD
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/521.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Paris Premiere HD
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/517.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: OCS MAX HD
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/518.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: OCS Geants HD
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/519.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: HD1
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/522.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Equidia Live HD
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/528.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: DISNEY CINEMA HD
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/523.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Club RTL
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/524.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: chérie 25
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/529.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: BOOMRANG HD
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/520.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Boomerang
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/525.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  WEO
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/527.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  Teva
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/526.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  Disney Channel HD
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/516.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BE: RTL TVI HD
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/535.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BE: PLUG RTL
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/534.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BE: La Une HD
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/533.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BE: La Trois
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/532.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BE: La Deux
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/531.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Ma chaine sport
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/409.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: W9
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/9.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: ushuaia hd
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/53.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Trace Urban
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/34.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: TIJI
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/24.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: TELETOON
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/25.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Serie Club
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/51.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: PIWI
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/35.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: OCS City
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/50.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: NT1
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/36.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Lequipe 21
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/37.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:disney cinema fr HD
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/52.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: GULLI
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/49.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: France 5
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/5.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Foot  24
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/48.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Eurosport
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/47.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Discovery hd
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/46.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: D8
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/8.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Cine  Premier
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/45.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Cine  Frisson
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/44.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Cine  Famiz
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/43.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Cine  Emotion
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/42.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Cine  Classic
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/41.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: cinÃ© polar
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/40.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: chasse peche
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/39.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Canal J
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/38.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Canal   Sport
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/33.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Canal   Serie
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/32.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Canal   Family
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/31.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Canal   Decale
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/30.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Canal   Cinema
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/29.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Canal
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/28.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Bein Sport 3
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/56.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Bein Sport 2
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/55.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Bein Sport 1
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/54.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Arte
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/27.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Action
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/26.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: 13eme Rue
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/23.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  Planete  CI
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/22.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  Planete
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/21.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  NRJ12
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/10.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  Nat Geo Wild
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/20.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  Nat Geo
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/19.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  MANGA
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/18.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  M6
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/7.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  infosport
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/17.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  France O
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/6.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  Disney Jr Fr
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/16.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  Disney
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/15.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  Discovery Science
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/14.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  Comedie
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/13.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  Cartoon Network
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/12.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:  animaux hd
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/11.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:A.LA.CARTE.9
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/619.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:A.LA.CARTE.8
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/618.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:A.LA.CARTE.7
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/617.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:A.LA.CARTE.6
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/616.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:A.LA.CARTE.5
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/615.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:A.LA.CARTE.4
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/614.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:A.LA.CARTE.3
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/613.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:A.LA.CARTE.2
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/612.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:A.LA.CARTE.12
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/622.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:A.LA.CARTE.11
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/621.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:A.LA.CARTE.10
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/620.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR:A.LA.CARTE.1
+plugin://plugin.video.f4mTester/?url=http://foxiptv.stream.tf:5050/live/jawad/jawad/611.ts&amp;streamtype=TSDOWNLOADER
+
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,NATIONAL GEO TELSAT
+http://81.254.205.139:9000/play/a01j
+#EXTINF:-1,TEVAHD NU2
+http://81.254.205.139:9000/play/a03f
+#EXTINF:-1,CANAL+ CINEMA
+http://81.254.205.139:9000/play/a00g
+#EXTINF:-1,CINE+ FRISSON
+http://81.254.205.139:9000/play/a00k
+#EXTINF:-1,DISNEY JUNIOR TELSAT
+http://81.254.205.139:9000/play/a016
+#EXTINF:-1,EUROSPORT 2
+http://81.254.205.139:9000/play/a00v
+#EXTINF:-1,BRAVA NU3
+http://81.254.205.139:9000/play/a01x
+#EXTINF:-1,CANAL+ SERIES
+http://81.254.205.139:9000/play/a00j
+#EXTINF:-1,INFOSPORT+
+http://81.254.205.139:9000/play/a01r
+#EXTINF:-1,OCS GEANTS
+http://81.254.205.139:9000/play/a018
+#EXTINF:-1,SYFY
+http://81.254.205.139:9000/play/a017
+#EXTINF:-1,BOING NU1
+http://81.254.205.139:9000/play/a006
+#EXTINF:-1,ARTE ORANGE
+http://81.254.205.139:9000/play/a02e
+#EXTINF:-1,CANAL+ SPORT
+http://81.254.205.139:9000/play/a00h
+#EXTINF:-1,SUNDANCE CHANNEL NU1
+http://81.254.205.139:9000/play/a007
+#EXTINF:-1,BOOMERANG NU1
+http://81.254.205.139:9000/play/a02i
+#EXTINF:-1,PLANETE+ CI
+http://81.254.205.139:9000/play/a00y
+#EXTINF:-1,TELETOON+ TELSAT
+http://81.254.205.139:9000/play/a010
+#EXTINF:-1,6Ter HD NU2
+http://81.254.205.139:9000/play/a00b
+#EXTINF:-1,PARAMOUNT DECALE HD NU3
+http://81.254.205.139:9000/play/a021
+#EXTINF:-1,CINE+ PREMIER HD NU3
+http://81.254.205.139:9000/play/a01y
+#EXTINF:-1,PLANETE+ TELESAT
+http://81.254.205.139:9000/play/a01n
+#EXTINF:-1,CANAL+ FAMILY
+http://81.254.205.139:9000/play/a00i
+#EXTINF:-1,THE MUSEUM CHANNEL NU3
+http://81.254.205.139:9000/play/a020
+#EXTINF:-1,CANAL+
+http://81.254.205.139:9000/play/a00e
+#EXTINF:-1,MOTORS TV NU1
+http://81.254.205.139:9000/play/a008
+#EXTINF:-1,PLANETE+ A&E
+http://81.254.205.139:9000/play/a01s
+#EXTINF:-1,I-Télé ORANGE
+http://81.254.205.139:9000/play/a02d
+#EXTINF:-1,OCS MAX  VU+
+http://81.254.205.139:9000/play/a00x
+#EXTINF:-1,13EMERUE
+http://81.254.205.139:9000/play/a015
+#EXTINF:-1,beIN SPORT MAX  4 NU4
+http://81.254.205.139:9000/play/a00m
+#EXTINF:-1,beIN SPORT MAX 10 NU4
+http://81.254.205.139:9000/play/a00u
+#EXTINF:-1,TV5 MONDE ORANGE
+http://81.254.205.139:9000/play/a02c
+#EXTINF:-1,beIN SPORT MAX 9 NU4
+http://81.254.205.139:9000/play/a00s
+#EXTINF:-1,CINE+ FAMIZ
+http://81.254.205.139:9000/play/a00l
+#EXTINF:-1,OCS CHOC
+http://81.254.205.139:9000/play/a00t
+#EXTINF:-1,beIN SPORT MAX 6 NU4
+http://81.254.205.139:9000/play/a00o
+#EXTINF:-1,beIN SPORT MAX 7 NU4
+http://81.254.205.139:9000/play/a00p
+#EXTINF:-1,beIN SPORTS 3 NU4
+http://81.254.205.139:9000/play/a00d
+#EXTINF:-1,beIN SPORT MAX 5 NU4
+http://81.254.205.139:9000/play/a00n
+#EXTINF:-1,DISCOVERY SCIENCE NU3
+http://81.254.205.139:9000/play/a01z
+#EXTINF:-1,PARIS PREMIERE HD NU2
+http://81.254.205.139:9000/play/a03e
+#EXTINF:-1,M6 Music HD NU2
+http://81.254.205.139:9000/play/a03i
+#EXTINF:-1,beIN SPORT MAX 8 NU4
+http://81.254.205.139:9000/play/a00q
+#EXTINF:-1,EQUIDIA LIFE NU1
+http://81.254.205.139:9000/play/a02m
+#EXTINF:-1,DISCOVERY CHANNEL NU3
+http://81.254.205.139:9000/play/a022
+#EXTINF:-1,SerieClub HD NU2
+http://81.254.205.139:9000/play/a03h
+#EXTINF:-1,M6 HD NU2
+http://81.254.205.139:9000/play/a03g
+#EXTINF:-1,VOYAGE
+http://81.254.205.139:9000/play/a019
+#EXTINF:-1,DISNEY CHANNEL TELSAT
+http://81.254.205.139:9000/play/a01o
+#EXTINF:-1,CANAL+ DECALE
+http://81.254.205.139:9000/play/a00f
