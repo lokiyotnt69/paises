@@ -1,0 +1,156 @@
+#EXTM3U
+#EXTINF:-1,[COLOR white][I][B]----------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,UK_SkySports1HD
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/272.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SkySports2HD
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/273.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SkySports3HD
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/274.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SkySports4HD
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/275.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SkySports5HD
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/276.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SkyGreats
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/225.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SkyComedyCentral
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/224.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SkyChelseaHD
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/223.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SkySportsNewsHD
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/277.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_Sky-One
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/633.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SKYMOVIES-SCIFI
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/635.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SkyMovies-PremiereHD
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/636.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SKYMOVIES-FAMILYHD
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/638.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SKYMOVIES-DRAMA
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/639.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SKYMOVIES-COMEDY
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/640.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SKYMOVIES-ACTION
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/641.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SkyLiving
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/642.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SkyAtlantic
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/644.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SetantaSports
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/645.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_NBA-HD
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/646.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_National-Geography-Wild
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/647.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_MUTV
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/648.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_ITV4
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/650.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_ITV3
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/651.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_ITV2
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/652.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_ITV1
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/653.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_ITV
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/654.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_HISTORY
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/655.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_DISNEY-XD
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/656.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_Discovery-History
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/657.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SkyCartoonNetwork
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/222.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_SkyDisney
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/643.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_BBC1
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/658.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_BBC2
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/659.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_BBC3
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/660.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK_BBC4
+plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/hafsa/hafsa/661.ts&amp;streamtype=TSDOWNLOADER
+
+
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR orange][I][B]----------------------- SOMETIMES ON / OFF -----------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,BBC ONE South
+http://86.26.74.20:9981/stream/channelid/634667925?ticket=8D376344ACD81FF58E22B6E7086E91A1A655EB86&profile=webtv-h264-aac-mpegts
+#EXTINF:-1,BBC TWO
+http://86.26.74.20:9981/stream/channelid/1653954202?ticket=29F6B83F3C25C4B00118BBF5B0BF7FBAD436C377&profile=webtv-h264-aac-mpegts
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR yellow][I][B]UK CHANNELS[/B][/I][/COLOR]
+http://0.0.0.0:123
+
+
+#EXTINF:-1, [I][B]London Live[/B][/I]
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:0, [I][B]QVC 1[/B][/I]
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+#EXTINF:0, [I][B]QVC 2[/B][/I]
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+#EXTINF:0, [I][B]QVC 3[/B][/I]
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+#EXTINF:0, [I][B]QVC 4[/B][/I]
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+#EXTINF:-1,[I][B][COLOR yellow]--- MUSIC ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,DANCE TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+
+#EXTINF:-1,Music
+http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,MTV Music HD
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+
+#EXTINF:-1,MTV Hits SD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+
+#EXTINF:-1,MTV Dance HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+
+#EXTINF:-1,MTV Rocks HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+
+#EXTINF:-1,Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1,Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
